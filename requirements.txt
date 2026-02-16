@@ -1,6 +1,7 @@
 # pytest
 pytest==9.0.2
 pytest-xdist==3.8.0
+pytest-playwright==0.7.2
 
 # clients
 requests==2.32.5

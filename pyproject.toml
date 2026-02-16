@@ -1,0 +1,12 @@
+[tool.black]
+line-length = 120
+
+[tool.pytest.ini_options]
+markers = [
+    "smoke: smoke tests",
+    "case(id): test case id",
+    "issue(id): related issue id",
+    "negative: negative scenarios",
+    "positive: positive scenarios",
+    "sanity: sanity tests"
+]

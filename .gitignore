@@ -1,0 +1,8 @@
+venv
+zz_temp
+
+.env
+.vscode
+.pytest_cache
+
+__pycache__
